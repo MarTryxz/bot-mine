@@ -72,7 +72,7 @@ Puedes personalizar el bot modificando el archivo `index.js`:
 
 ## Licencia
 
-Este proyecto está bajo la licencia ISC - consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la licencia MIT - consulta el archivo LICENSE para más detalles.
 
 ## Autor
 
