@@ -1,0 +1,16 @@
+{
+  "name": "bot-mine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mineflayer": "^4.25.0",
+    "node-fetch": "^2.7.0",
+    "prismarine-proxy": "^1.1.4"
+  }
+}
