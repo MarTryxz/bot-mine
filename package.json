@@ -3,14 +3,18 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "MarTryxz",
+  "license": "MIT",
+  "description": "A Minecraft bot with AI capabilities using Ollama and Mineflayer",
   "dependencies": {
     "mineflayer": "^4.25.0",
     "node-fetch": "^2.7.0",
     "prismarine-proxy": "^1.1.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
